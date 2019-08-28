@@ -1,0 +1,4 @@
+[13-Aug-2019 17:02:46 UTC] PHP Parse error:  syntax error, unexpected 'greeting' (T_STRING) in /app/public/wp-content/themes/jack-theme/index.php on line 9
+[13-Aug-2019 17:03:14 UTC] PHP Parse error:  syntax error, unexpected 'greeting' (T_STRING) in /app/public/wp-content/themes/jack-theme/index.php on line 8
+[27-Aug-2019 19:42:00 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'jack_post_types' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[27-Aug-2019 19:42:00 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'jack_post_types' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
